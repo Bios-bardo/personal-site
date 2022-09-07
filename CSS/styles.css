@@ -29,7 +29,6 @@ div{
 
 p{
     line-height:1.5;
-    margin:auto 10% auto 10%;
 }
 
 a{
@@ -71,6 +70,7 @@ textarea{
 }
 .second-container{
     background-color:#e9e5d4;
+    padding:auto 10% auto 10%;
 }
 .skill-set{
     background-color:#dad0a3;
